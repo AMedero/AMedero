@@ -1,6 +1,6 @@
 <!-- Cabezal -->
 <div align="center" width="100">
-  <!-- Cápsula personalizada -->
+  <!-- Wave inicial -->
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hola,%20soy%20Adriel&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" 
   alt="header"/>
 </div>
@@ -15,7 +15,7 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=¡Hola+Mundo!+Bienvenido+a+mi+perfil+de+GitHub+:);Fortaleciendo+habilidades+de+Backend+y+DataBases...;Explorando+Java,+Spring+Boot+y+MySQL..." alt="Texto dinámico">
+    <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=600&lines=¡Hola+Mundo!+Bienvenido+a+mi+perfil+de+GitHub+:);Fortaleciendo+habilidades+de+Backend+y+DataBases...;¡Hola+Mundo!+Bienvenido+a+mi+perfil+de+GitHub+:);Explorando+Java,+Spring+Boot+y+MySQL..." alt="Texto dinámico">
   </a>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">
 </div>
@@ -48,6 +48,11 @@
     width="60px"
     alt="HTML5">
     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    width="60px"
+    alt="css3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p><strong>Frameworks:</strong></p>
 <img
@@ -66,13 +71,23 @@
     alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
     
- <p><strong>Herramientas:</strong></p>
+ <p><strong>IDEs:</strong></p>
       <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
     width="60px"
     alt="VS Code">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
 </div>
+
+<!-- wave final -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />  
+</div>
+
+------
+
 <!-- final -->
 <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg">
+
+------
